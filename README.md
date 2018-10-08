@@ -8,7 +8,7 @@
 * **October 2017:** Cristian Castillo
 * **January 2018:** Ana Recuero
 * **March 2018:** Abdallah Aberouch
-* **June 2018:** (Pending...)
+* **June 2018:** Diego Méndez - Enrique Pernía
 
 ## Webdev Madrid - Academic Team
 - Marc Pomar
@@ -26,6 +26,7 @@
 - Gabriel Cebrián
 - Juan Sánchez Mesa
 - Giorgio Grassini
- 
+- Anna Högber
+- Diego Méndez 
   
   
